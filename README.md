@@ -20,28 +20,28 @@ Project consists of a simple method allowing you to hide zipped files in an imag
 
 <p align="center">
 Send the files you want to hide to a Zip archive <br/>
-<img src="https://imgur.com/3EvM6Cs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/3EvM6Cs.png" height="80%" width="80%" alt="How To Hide Files In A JPEG"/>
 <br />
 <br />
 Move the zip file to your Desktop.
 Type CD or Command Prompt into the search bar  <br/>
-<img src="https://imgur.com/X8YHn6K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/X8YHn6K.png" height="80%" width="80%" alt="How To Hide Files In A JPEG"/>
 <br />
 <br />
 Type the following command to make your desktop the current working directory. cd Desktop <br/>
-<img src="https://imgur.com/ZAscjRQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ZAscjRQ.png" height="80%" width="80%" alt="How To Hide Files In A JPEG"/>
 <br />
 <br />
 We will hide the compressed folder in the cat photo </br>
-<img src="https://imgur.com/TkegsiN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/TkegsiN.png" height="80%" width="80%" alt="How To Hide Files In A JPEG"/>
 <br />
 <br />
 Enter the following command to hide your files in a JPG picture. copy /b source-image.jpg + your-archive.zip target-image-file.jpg A copy of the compressed folder will now be in the cat.jpg.  <br/>
-<img src="https://imgur.com/Dhc7ZTm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Dhc7ZTm.png" height="80%" width="80%" alt="How To Hide Files In A JPEG"/>
 <br />
 <br />
 Unhide - Right click the cat.jpg>open with>WinRAR  <br/>
-<img src="https://imgur.com/dgK3Qb0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/dgK3Qb0.png" height="80%" width="80%" alt="How To Hide Files In A JPEG"/>
 </p>
 
 <!--
