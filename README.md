@@ -1,6 +1,6 @@
 <h1>How To Hide Files In A JPEG</h1>
 
- ### [YouTube Demonstration](https://youtube.com/)
+ ### [YouTube Demonstration](https://youtu.be/eTv6_yf2Mm4)
 
 <h2>Description</h2>
 Project consists of a simple method allowing you to hide zipped files in an image and how to unhide them.
